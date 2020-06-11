@@ -7,5 +7,4 @@
   - Apply seaborn and matplotlib to perform images visualization
   - Compile and fit forecasting model to training data
   - Assess trained model performance
-- Source(1):https://facebook.github.io/prophet/ 
-- Source(2):https://github.com/facebook/prophet
+- Source:https://facebook.github.io/prophet/ https://github.com/facebook/prophet
